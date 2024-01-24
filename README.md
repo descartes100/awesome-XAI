@@ -60,24 +60,29 @@ Explainable Artificial Intelligence (XAI) is a branch of AI focused on making th
 Fit interpretable models. Explain blackbox machine learning.
 
 [alibi](https://github.com/SeldonIO/alibi)
+
 Algorithms for explaining machine learning models
 
 [AIX360](https://github.com/Trusted-AI/AIX360)
+
 Interpretability and explainability of data and machine learning models
 
 [DALEX](https://github.com/ModelOriented/DALEX)
+
 moDel Agnostic Language for Exploration and eXplanation
 
 [DiCE](https://github.com/interpretml/DiCE)
+
 Generate Diverse Counterfactual Explanations for any machine learning model.
 
 [causalml](https://github.com/uber/causalml)
+
 Uplift modeling and causal inference with machine learning algorithms
 
 
 ## License
 
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE_LINK) file in the repository.
+This project is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/descartes100/awesome-XAI/blob/main/LICENSE) file in the repository.
 S
 
 ## Acknowledgments
