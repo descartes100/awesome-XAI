@@ -83,7 +83,7 @@ Uplift modeling and causal inference with machine learning algorithms
 ## License
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/descartes100/awesome-XAI/blob/main/LICENSE) file in the repository.
-S
+
 
 ## Acknowledgments
 
